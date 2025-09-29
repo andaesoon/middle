@@ -43,11 +43,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div>
                         <label for="naverClientId" class="block text-sm font-medium text-gray-700">Naver Maps API Client ID</label>
-                        <input type="text" id="naverClientId" value="VT7zKZin6izD3Pv1bQYDbEqo39ApQijmbw9PcTsl" class="mt-1 block w-full border border-gray-300 rounded-lg shadow-sm p-3 focus:ring-primary-blue focus:border-primary-blue" placeholder="Client ID를 입력하세요">
+                        <input type="text" id="naverClientId" value="6wf0ftkial" class="mt-1 block w-full border border-gray-300 rounded-lg shadow-sm p-3 focus:ring-primary-blue focus:border-primary-blue" placeholder="Client ID를 입력하세요">
                     </div>
                      <div>
                         <label for="naverClientSecret" class="block text-sm font-medium text-gray-700">Naver Maps API Client Secret</label>
-                        <input type="password" id="naverClientSecret" value="" class="mt-1 block w-full border border-gray-300 rounded-lg shadow-sm p-3 focus:ring-primary-blue focus:border-primary-blue" placeholder="Client Secret을 입력하세요">
+                        <input type="password" id="naverClientSecret" value="VT7zKZin6izD3Pv1bQYDbEqo39ApQijmbw9PcTsl" class="mt-1 block w-full border border-gray-300 rounded-lg shadow-sm p-3 focus:ring-primary-blue focus:border-primary-blue" placeholder="Client Secret을 입력하세요">
                     </div>
                 </div>
             </div>
